@@ -14,18 +14,20 @@ Why complicate something if it doesnt give you any added benefit. We are going t
  1.NLP
 
 
-**LSTM**-(Chuck) <br />
+**LSTM**-Chuck <br />
 -LSTM
 
 
-**Convolution Networks**-(David) <br />
+**Convolution Networks**-David <br />
 1.ResNet-16 <br />
 2.VGG-16 <br />
 Gramian Angular Fields <br />
 
 
-**Technical Indicators**- (Flor) <br />
--RSI
+**Technical Indicators**- Flor <br />
+-RSI<br />
+-Random Forest
+
 
 ---
 **Whats the outcome?** <br />
