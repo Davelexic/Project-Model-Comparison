@@ -11,11 +11,11 @@ Why complicate something if it doesnt give you any added benefit. We are going t
 
 ---
 **NLP**-Jerry <br />
-  *asdfasf
+ 1.NLP
 
 
 **LSTM**-(Chuck) <br />
--asdasd
+-LSTM
 
 
 **Convolution Networks**-(David) <br />
@@ -25,7 +25,7 @@ Gramian Angular Fields <br />
 
 
 **Technical Indicators**- (Flor) <br />
--asdasd
+-RSI
 
 ---
 **Whats the outcome?** <br />
