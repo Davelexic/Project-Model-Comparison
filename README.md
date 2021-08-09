@@ -15,18 +15,18 @@ Why complicate something if it doesnt give you any added benefit. We are going t
 
 
 **LSTM**-Chuck <br />
--LSTM
+1.LSTM
 
 
 **Convolution Networks**-David <br />
 1.ResNet-16 <br />
 2.VGG-16 <br />
-Gramian Angular Fields <br />
+3.Gramian Angular Fields <br />
 
 
 **Technical Indicators**- Flor <br />
--RSI<br />
--Random Forest
+1.RSI<br />
+2.Random Forest
 
 
 ---
