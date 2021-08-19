@@ -101,7 +101,7 @@ We find that Bayesian optimizer's tuned parameters does a better job than simple
 | ------------------------------------------------------------ | --------------------------------------------- | ----------------------------- |
 | candlestick01.ipynb & candlestick02.ipynb                    | Data preparation for candlestick images       | (n/a)                         |
 | deep_learn2.ipynb (jupyter notebook local windows)           | Simple CNN model                              | Performance is not that good. |
-| lstm_predictor_project2-2.ipynb (colab jupyter notebook run with GPU) | Simple LSTM model.                            | Performance is reasonable.    |
+| lstm_predictor_project2-2.ipynb (jupyter notebook local windows) | Simple LSTM model.                            | Performance is reasonable.    |
 | lstm_predictor_project2_finetune1.ipynb (colab jupyter notebook run with GPU) | Keras Tuner Fine Tuned. But gets complex      | Performance is not that good. |
 | Bayesian_lstm_predictor_project2_finetune1.ipynb (colab jupyter notebook run with GPU) | Keras Tuner Bayesian model but simpler layers | Performance looks better      |
 
