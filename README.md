@@ -31,4 +31,4 @@ Why complicate something if it doesnt give you any added benefit. We are going t
 
 ---
 **Whats the outcome?** <br />
--We came to find if time and money are not a factor then with the right tuning a CNN model would preform well. Most of the time those variables are limited so making a simple deep learning provides almost as much insight with out the blood, sweat, and tears required to built and prep and CNN. We will continue to learn about this are and learn from our mistakes to evolve or pipeline so that it not so cumbersome.
+-We came to find if time and money are not a factor then with the right tuning a CNN model would preform well. Most of the time those variables are limited so making a simple deep learning provides almost as much insight with out the blood, sweat, and tears required to built and prep a CNN. We will continue to learn about this process and learn from our mistakes to evolve our pipeline so that it not so cumbersome.
